@@ -47,7 +47,7 @@ Download the executable from [**Releases**](https://github.com/syedhafiz1234/PDF
 
 Install with `cargo`:
 
-    $ cargo install --git https://github.com/mufeedvh/pdfrip.git
+    $ cargo install --git https://github.com/syedhafiz1234/PDFRip.git
     
 [Install Rust/Cargo](https://rust-lang.org/tools/install)
 
