@@ -34,7 +34,7 @@
 ## Installation
 
 ```
-$ curl -L https://github.com/mufeedvh/pdfrip/releases/download/v1.0.0/pdfrip_amd64 -o pdfrip
+$ curl -L https://github.com/syedhafiz1234/PDFRip/releases/download/v1.0.0/pdfrip_amd64 -o pdfrip
 ```
 
 (`Linux AMD x86-64`)
@@ -61,7 +61,7 @@ Install with `cargo`:
 * A C linker (Only for Linux, generally comes pre-installed)
 
 ```
-$ git clone https://github.com/mufeedvh/pdfrip.git
+$ git clone (https://github.com/syedhafiz1234/PDFRip)
 $ cd pdfrip/
 $ cargo build --release
 ```
