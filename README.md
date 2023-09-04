@@ -61,7 +61,7 @@ Install with `cargo`:
 * A C linker (Only for Linux, generally comes pre-installed)
 
 ```
-$ git clone (https://github.com/syedhafiz1234/PDFRip)
+$ git clone https://github.com/mufeedvh/pdfrip.git
 $ cd pdfrip/
 $ cargo build --release
 ```
