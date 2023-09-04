@@ -41,7 +41,7 @@ $ curl -L https://github.com/mufeedvh/pdfrip/releases/download/v1.0.0/pdfrip_amd
 
 **OR**
 
-Download the executable from [**Releases**](https://github.com/mufeedvh/pdfrip/releases) for your OS.
+Download the executable from [**Releases**](https://github.com/syedhafiz1234/PDFRip)  for your OS.
 
 **OR**
 
@@ -108,4 +108,4 @@ Ways to contribute:
 
 ## License
 
-Licensed under the MIT License, see <a href="https://github.com/mufeedvh/pdfrip/blob/master/LICENSE">LICENSE</a> for more information.
+Licensed under the MIT License, see <a href=>LICENSE</a> for more information.
